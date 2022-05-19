@@ -1,0 +1,7 @@
+prueba2
+tareas:
+1.convertir a repositorio
+2.guardar y asegurar cambios
+3.crear un nuevo repositorio con el mismo nombre en la web
+4.conectarlos
+5.subir los cambios
